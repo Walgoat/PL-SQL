@@ -1,4 +1,4 @@
-# BackOffice Oracle PL/SQL (exemple)
+# BackOffice Oracle PL/SQL 
 
 Un petit projet pour s'entraîner : commandes → facturation → paiements, avec gestion de stock.
 
