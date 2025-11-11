@@ -1,0 +1,6 @@
+commande_ref;client_nom;produit_ref;qte
+CMD-1001;ACME;P-USB;5
+CMD-1001;ACME;P-MON;1
+CMD-1002;Globex;P-USB;20
+CMD-1003;ACME;P-USB;3
+CMD-1003;ACME;P-SUP;2
